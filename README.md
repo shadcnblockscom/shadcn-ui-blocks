@@ -14,12 +14,19 @@ The largest list online of awesome things related to [shadcn/ui](https://ui.shad
 
 <details>
   <summary></summary>
-  
-#### Collabs
+
+## Components
+
+- [card](https://github.com/shadcnblockscom/shadcn-ui-blocks/blob/main/card.md)
+- [dialogue](https://github.com/shadcnblockscom/shadcn-ui-blocks/edit/main/dialogue.md)
+- [hero](https://github.com/shadcnblockscom/shadcn-ui-blocks/edit/main/hero.md)
+- [table](https://github.com/shadcnblockscom/shadcn-ui-blocks/blob/main/table.md)
+
+### Collabs
 
 In partnership with the [Awesome Shadcn/ui Directory](https://awesome-shadcn-ui.com/) & [awesome-shadcnui](https://github.com/2-fly-4-ai/awesome-shadcnui)
 
-#### Features
+### Features
 
 [The Best Component Libraries for React, Next.js & Tailwind UI](https://gist.github.com/devinschumacher/66c4f6d7680f89211951c27ca5d95bb5)| [Creating Common Webpage Layouts With TailwindCSS Using CSS Grid & CSS Flex box (w/ Code Examples)](https://gist.github.com/devinschumacher/95ed32c383a8cc91c0e80e5e502b6afa)| [shadcnblocks - Review](https://gist.github.com/sarahatherbest/7ab61d18081d9b8179e09306cf9680df) | [awesome-shadcnui](https://github.com/2-fly-4-ai/awesome-shadcnui/wiki)
 </details>
