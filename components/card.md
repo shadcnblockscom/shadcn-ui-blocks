@@ -1,4 +1,4 @@
-# Card Component | ShadcnUI & TailwindCSS
+# Card Components for ShadcnUI 
 
 A card component is a fundamental UI pattern that presents content in a contained, visually distinct surface. Cards group related information and actions together, creating a clear visual hierarchy and improving content scannability. They're essentially containers with consistent styling that can hold various types of content - from simple text to complex interactive elements. In modern web development, cards have become one of the most versatile and widely-used components.
 
