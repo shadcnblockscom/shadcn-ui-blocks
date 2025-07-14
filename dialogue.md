@@ -1,4 +1,4 @@
-# Dialog Components for ShadcnUI
+# Dialogue Components for ShadcnUI
 
 A dialog component (also known as a modal) is an overlay UI element that appears on top of the main content, requiring user interaction before returning to the application. Dialogs create a focused experience by dimming or blocking the background content, drawing complete attention to a specific task, message, or decision. They're built with accessibility in mind, managing focus states, keyboard navigation, and screen reader announcements to ensure all users can interact with them effectively.
 
