@@ -1,8 +1,5 @@
-# Master Hero Components: Complete Guide for Modern UI Development
+# Hero Components for Shadcn
 
-## Component Overview
-
-### What is a Hero Component?
 
 A hero component is the prominent, above-the-fold section that immediately captures visitor attention when they land on a webpage. It's typically the largest and most visually impactful element on a page, combining compelling visuals, clear messaging, and strategic calls-to-action. Heroes set the tone for the entire user experience and play a crucial role in communicating value propositions, establishing brand identity, and driving user engagement within the first few seconds of a visit.
 
