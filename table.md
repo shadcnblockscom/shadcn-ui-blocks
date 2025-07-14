@@ -1,8 +1,4 @@
-# Master Table Components: Complete Guide for Modern UI Development
-
-## Component Overview
-
-### What is a Table Component?
+# Table Components for ShadcnUI
 
 A table component is a structured UI element for displaying data in rows and columns, making it easy to scan, compare, and analyze information. Tables organize complex datasets into a grid format where each row represents a record and columns represent different attributes. In modern web applications, tables go beyond static data display - they include features like sorting, filtering, pagination, and row selection, making them powerful tools for data management and visualization.
 
