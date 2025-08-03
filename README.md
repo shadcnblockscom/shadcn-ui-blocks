@@ -21,6 +21,7 @@ The largest list online of awesome things related to [shadcn/ui](https://ui.shad
 - [dialogue](https://github.com/shadcnblockscom/shadcn-ui-blocks/edit/main/dialogue.md)
 - [hero](https://github.com/shadcnblockscom/shadcn-ui-blocks/edit/main/hero.md)
 - [table](https://github.com/shadcnblockscom/shadcn-ui-blocks/blob/main/table.md)
+- [toast](https://github.com/shadcnblockscom/shadcn-ui-blocks/blob/main/toast.md)
 
 ### Collabs
 
