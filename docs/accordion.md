@@ -1,7 +1,7 @@
 # Accordion Components for ShadcnUI
 
 Accordions are useful when you need to pack a lot of information into a compact space.  
-The Shadcn UI accordion component is described in the official documentation as **“a vertically stacked set of interactive headings that each reveal a section of content”**【276215656902153†L120-L123】.  
+The Shadcn UI accordion component is described in the official documentation as **“a vertically stacked set of interactive headings that each reveal a section of content”**.  
 In practice this translates to a list of collapsible panels—only one or many panels can be open at once depending on the configuration.  
 They give users a way to drill into details without leaving the page.
 
@@ -76,12 +76,12 @@ export default function FaqAccordion() {
    ```sh
    pnpm dlx shadcn@latest init
    ```  
-   This initializes the configuration and installs the `cn` util for className management【763259706930341†L124-L173】.
+   This initializes the configuration and installs the `cn` util for className management.
 2. **Add the accordion component** – install the accordion and its dependencies:  
    ```sh
    pnpm dlx shadcn@latest add accordion
    ```  
-   The command downloads the component files and registers CSS variables for the accordion【276215656902153†L206-L213】.
+   The command downloads the component files and registers CSS variables for the accordion.
 
 After installation you can import the accordion parts from `@/components/ui/accordion` as shown in the example.
 
@@ -99,11 +99,11 @@ Accordions help manage dense information by letting users expand only the sectio
 
 ## Meta Description
 
-Learn how to use the Shadcn UI accordion component in your React or Next.js project.  This guide covers setup, common patterns and best practices for creating collapsible panels【276215656902153†L120-L123】.
+Learn how to use the Shadcn UI accordion component in your React or Next.js project.  This guide covers setup, common patterns and best practices for creating collapsible panels.
 
 ## Key Takeaways
 
 - The accordion component organises content into collapsible panels for improved readability.  
-- Shadcn UI provides accessible accordion parts out of the box【276215656902153†L120-L123】.  
-- Use the CLI to install the component quickly【276215656902153†L206-L213】.  
+- Shadcn UI provides accessible accordion parts out of the box.  
+- Use the CLI to install the component quickly.  
 - Customise appearance and motion via Tailwind and CSS variables.

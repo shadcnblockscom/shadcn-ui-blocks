@@ -1,7 +1,7 @@
 # Avatar Components for ShadcnUI
 
 Avatars personalize an interface by showing a user’s picture or initials.  
-In the Shadcn UI library an **Avatar** is defined as “an image element with a fallback for representing the user”【291286168809084†L120-L122】.  
+In the Shadcn UI library an **Avatar** is defined as “an image element with a fallback for representing the user”.  
 The component handles broken images and empty states gracefully by falling back to initials or an icon.  
 This makes it perfect for social feeds, comment threads and any place where identity matters.
 
@@ -74,7 +74,7 @@ export function UserCard() {
    ```sh
    pnpm dlx shadcn@latest add avatar
    ```
-   The CLI generates the avatar files and CSS variables【291286168809084†L174-L182】.  Import from `@/components/ui/avatar` as shown above.
+   The CLI generates the avatar files and CSS variables.  Import from `@/components/ui/avatar` as shown above.
 
 ## Best Practices
 
@@ -90,10 +90,10 @@ Avatars humanize your interface and help users identify themselves and others.  
 
 ## Meta Description
 
-Discover how to implement avatars in Shadcn UI.  Learn about image fallbacks, setup and customization for profile pictures【291286168809084†L120-L122】.
+Discover how to implement avatars in Shadcn UI.  Learn about image fallbacks, setup and customization for profile pictures.
 
 ## Key Takeaways
 
-- The avatar component displays user images with an automatic fallback【291286168809084†L120-L122】.  
-- Installation via the CLI sets up the component in seconds【291286168809084†L174-L182】.  
+- The avatar component displays user images with an automatic fallback.  
+- Installation via the CLI sets up the component in seconds.  
 - Customize size, shape and placeholder content to match your design.

@@ -1,7 +1,7 @@
 # Badge Components for ShadcnUI
 
 Badges draw attention to short pieces of information—think of them as labels or tags for UI elements.  
-Shadcn UI describes the badge component succinctly: it **“displays a badge or a component that looks like a badge”**【390905259168285†L120-L121】.  
+Shadcn UI describes the badge component succinctly: it **“displays a badge or a component that looks like a badge”**.  
 Badges are perfect for highlighting statuses, categories or counts without overwhelming your design.
 
 ## Common Use Cases
@@ -68,7 +68,7 @@ export function InboxButton({ unread }: { unread: number }) {
    ```sh
    pnpm dlx shadcn@latest add badge
    ```  
-   This installs the badge files and registers CSS variables【390905259168285†L172-L179】.
+   This installs the badge files and registers CSS variables.
 
 Import the `Badge` component from `@/components/ui/badge` and pass the `variant` prop to change its appearance.
 
@@ -86,10 +86,10 @@ Badges are small but mighty UI elements that call attention to important informa
 
 ## Meta Description
 
-Learn how to implement badges in Shadcn UI.  This guide covers usage scenarios, installation and customization for labels, statuses and counts【390905259168285†L120-L121】.
+Learn how to implement badges in Shadcn UI.  This guide covers usage scenarios, installation and customization for labels, statuses and counts.
 
 ## Key Takeaways
 
-- Badges emphasize concise information such as statuses and counts【390905259168285†L120-L121】.  
+- Badges emphasize concise information such as statuses and counts.  
 - The Shadcn UI badge component supports variants and icons out of the box.  
-- Use the CLI to install the component and import from `@/components/ui/badge`【390905259168285†L172-L179】.
+- Use the CLI to install the component and import from `@/components/ui/badge`.

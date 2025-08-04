@@ -1,7 +1,7 @@
 # Blocks in the Shadcn UI Ecosystem
 
 While Shadcn UI provides individual components like buttons and cards, the community also maintains a **blocks** library that packages multiple components into ready‑made sections.  
-According to the contribution guidelines, a block can be “a single component or a complex component” and developers are invited to contribute their own high‑quality blocks【237529148415525†L120-L124】.  
+According to the contribution guidelines, a block can be “a single component or a complex component” and developers are invited to contribute their own high‑quality blocks.  
 Blocks speed up development by giving you complete sections—hero banners, pricing tables, dashboards—out of the box.
 
 ## Common Use Cases
@@ -75,7 +75,7 @@ Because blocks are composed of existing components, there is no single CLI comma
 1. Initialize your project: `pnpm dlx shadcn@latest init` to set up dependencies.  
 2. Add any components used within the block (e.g., button, card, accordion).  
 3. Create a new file (e.g., `PricingBlock.tsx`) and compose the imported components as shown above.  
-4. Optionally contribute your block back to the community library【237529148415525†L120-L124】.
+4. Optionally contribute your block back to the community library.
 
 ## Best Practices
 
@@ -91,10 +91,10 @@ Blocks accelerate development by providing fully composed sections built on top 
 
 ## Meta Description
 
-An overview of the Shadcn UI blocks ecosystem.  Learn how blocks package multiple components into reusable sections and see an example pricing block【237529148415525†L120-L124】.
+An overview of the Shadcn UI blocks ecosystem.  Learn how blocks package multiple components into reusable sections and see an example pricing block.
 
 ## Key Takeaways
 
 - Blocks are higher‑level compositions built from individual Shadcn components.  
-- The community encourages contributions and reusability【237529148415525†L120-L124】.  
+- The community encourages contributions and reusability.  
 - Customise blocks through props and CSS variables for flexible layouts.
