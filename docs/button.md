@@ -1,7 +1,7 @@
 # Button Components for ShadcnUI
 
 Buttons are fundamental interactive elements that trigger actions.  
-The Shadcn UI documentation defines the button component as one that **“displays a button or a component that looks like a button”**【447688545576082†L114-L121】.  
+The Shadcn UI documentation defines the button component as one that **“displays a button or a component that looks like a button”**.  
 With Shadcn UI, buttons come in multiple variants (primary, secondary, destructive, link) and sizes out of the box.
 
 ## Common Use Cases
@@ -68,7 +68,7 @@ export default function SaveButton() {
    ```sh
    pnpm dlx shadcn@latest add button
    ```  
-   This sets up the button files and registers CSS variables【447688545576082†L138-L144】.
+   This sets up the button files and registers CSS variables.
 
 Import the `Button` component from `@/components/ui/button` and pass `variant` and `size` props as needed.
 
@@ -86,10 +86,10 @@ Buttons are the workhorses of any interface.  Shadcn UI provides flexible, acce
 
 ## Meta Description
 
-Explore the Shadcn UI button component.  Learn how to implement variants, handle click events and customise buttons for any action【447688545576082†L114-L121】.
+Explore the Shadcn UI button component.  Learn how to implement variants, handle click events and customise buttons for any action.
 
 ## Key Takeaways
 
-- Buttons trigger actions and come in various semantic variants【447688545576082†L114-L121】.  
-- Install the button component via the Shadcn UI CLI【447688545576082†L138-L144】.  
+- Buttons trigger actions and come in various semantic variants.  
+- Install the button component via the Shadcn UI CLI.  
 - Customise size, variant and content to fit your design.
